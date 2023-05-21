@@ -1,44 +1,7 @@
-<style>
-* {
-        font-size: 14px;
-        margin: 0px;
-        padding: 0px;
-    }
-    .lawds {
-            font-weight: bold;
-            display: flex;
-            justify-content: space-between;
-            align-item: left;
-        }
-    .ids{
-            text-align: left;
-        }
-        .name{
-            /* border: pink 13px dotted; */
-            padding:0px 10px;
-                font-weight: bold;
-                text-align: left;
-                font-size: 40px;
-            }
-</style>
-
-<body>
-
-<div align="center">
-<div class="lawds">
-
-<div class="name">Ashish Kushwaha</div>
-
-<div class="ids">
+# Ashish Kushwaha
 
 Email: [ashish.kus2408@gmail.com](mailto:ashish.kus2408@gmail.com)<br>
 Github: [https://github.com/ashish-kus](https://github.com/ashish-kus)
-
-</div>
-
-</div>
-
-</div>
 
 #### Personal Statement:
 
@@ -69,45 +32,6 @@ Github: [https://github.com/ashish-kus](https://github.com/ashish-kus)
 - Able to translate design concepts into pixel-perfect web layouts using CSS and Svelte.js.
 
 #### SKILLS
-
-<!-- **Skills:** -->
-
-<!-- - Operating Systems: Linux (Ubuntu, Arch, Fedora) usign since 4 years -->
-<!-- - Desktop Environments: KDE, Cinnamon, Xfce, HYPRLAND -->
-<!---->
-<!-- **Programming Languages:** -->
-<!---->
-<!-- Bash, C/C++, Java, Python -->
-<!---->
-<!-- **Database:** -->
-<!---->
-<!-- - MySQL (Intermediate) -->
-<!---->
-<!-- **Version Control:** -->
-<!---->
-<!-- - Git (Intermediate) -->
-<!---->
-<!-- **Virtualization:** -->
-<!---->
-<!-- - QEMU/KVM (Intermediate) -->
-<!---->
-<!-- **Markup Languages:** -->
-<!---->
-<!-- - XML (Intermediate) -->
-<!---->
-<!-- **Text Editors:** -->
-<!---->
-<!-- - Vim (Intermediate) -->
-<!---->
-<!-- **Web Development:** -->
-<!---->
-<!-- - HTML (Intermediate) -->
-<!-- - CSS (Intermediate) -->
-<!-- - JavaScript (Intermediate) -->
-<!-- - SCSS (Intermediate) -->
-<!-- - Svelte (Intermediate) -->
-<!---->
-
 | Skills              | Descriptions                                                                                                                                    | Experience                                 |
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
 | Operating Systems   | The Operating Systems i use for my personal cases.<br>Linux (Ubuntu, Arch, Fedora) [Majorly Arch Linux](https://archlinux.org)                  | 4 years                                    |
@@ -177,5 +101,3 @@ Currently pursuing the third year of an Integrated B.Tech + M.Tech program at GB
 - Shastam Lead Organizer Certificate from University
 - Internship Certificate from SMDHM on web development
 - Multiple Certificates from recognized platform HackerRank
-
-</body>
